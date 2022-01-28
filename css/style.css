@@ -1,25 +1,12 @@
 
 body {
-    background-color: lightgray;
+    background-color: rgb(31, 31, 31);
+    color: rgb(139, 0, 0);
     font-family: 
     'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     line-height: 1.6em;
 }
 
-#header-main {
-    text-align: center;
-    background-color: burlywood;
-    padding: 10px;
-}
-
-#footer-main {
-    text-align: center;
-}
-
-.box-1 {
-
-}
-
-.list-1 {
-    
+.back {
+    color: rgb(31, 31, 31);
 }
